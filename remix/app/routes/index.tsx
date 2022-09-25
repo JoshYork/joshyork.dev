@@ -5,19 +5,19 @@ const Index = () => {
       <h2>Links</h2>
       <ul>
         <li>
-          <a href="https://github.com/JoshYork">GitHub</a>
+          <a href="https://github.com/joshyork">GitHub</a>
         </li>
       </ul>
       <h2>Projects</h2>
       <ul>
         <li>
-          <a href="https://github.com/JoshYork/joshyork.dev">joshyork.dev</a>
+          <a href="https://github.com/joshyork/joshyork.dev">joshyork.dev</a>
         </li>
         <li>
-          <a href="https://github.com/JoshYork/dotfiles">Dotfiles</a>
+          <a href="https://github.com/joshyork/dotfiles">Dotfiles</a>
         </li>
         <li>
-          <a href="https://github.com/JoshYork/raycast-bookmarks">
+          <a href="https://github.com/joshyork/raycast-bookmarks">
             Raycast extension: Bookmarks
           </a>
         </li>
